@@ -1,2 +1,2 @@
 # biaflows_jupyter_local
-A jupyter-notebook that demonstrates the local use of BIAFLOWS.
+A Python Jupyter notebook demonstrating how to run a BIAFLOWS workflow on local images and display the results.
